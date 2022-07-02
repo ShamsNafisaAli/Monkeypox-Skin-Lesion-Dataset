@@ -19,18 +19,36 @@ The dataset itself is available for download at the [Kaggle](https://www.kaggle.
 
 
 # Citation
-If the dataset helped your research, please cite:
-
-Shams Nafisa Ali, Joydip Paul, Md. Tazuddin Ahmed, Tasnim Jahan, Nawsabah Noor, Taufiq Hasan. Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study. 
-
-@software{Lisa_My_Research_Software_2017,
-  author = {Lisa, Mona and Bot, Hew},
-  doi = {10.5281/zenodo.1234},
-  month = {12},
-  title = {{My Research Software}},
-  url = {https://github.com/github/linguist},
-  version = {2.0.4},
-  year = {2017}
-}
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Lisa"
+  given-names: "Mona"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Bot"
+  given-names: "Hew"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "My Research Software"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2017-12-18
+url: "https://github.com/github/linguist"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Lisa"
+    given-names: "Mona"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Bot"
+    given-names: "Hew"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 9
+  start: 1 # First page number
+  end: 10 # Last page number
+  title: "My awesome research software"
+  issue: 1
+  volume: 1
+  year: 2021
 
 <!-- Tschandl, P., Rosendahl, C. & Kittler, H. The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions. Sci. Data 5, 180161 doi:10.1038/sdata.2018.161 (2018). -->
