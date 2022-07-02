@@ -1,6 +1,6 @@
 # Monkeypox-Skin-Lesion-Dataset
 
-![License](https://drive.google.com/file/d/1RgtCO5qaM9zLmoO7t4jIuGyRfmoL-9jZ/view?usp=sharing)
+![License](https://github.com/ShamsNafisaAli/Monkeypox-Skin-Lesion-Dataset/blob/main/Assests/cc.png)
 
 This repository gives access to the Moneypox Skin Lesion Dataset. The dataset itself is available for download at the [Kaggle](https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-dataset) or the [Google Drive](https://drive.google.com/drive/folders/1bIYqAW-vqDBq3Ou_UMXPwgemqfZeqQi5?usp=sharing).
 
