@@ -17,6 +17,9 @@ The dataset itself is available for download at the [Kaggle](https://www.kaggle.
 * * *
 
 # Dataset Description
+
+![Data Division](https://github.com/ShamsNafisaAli/Monkeypox-Skin-Lesion-Dataset/blob/main/Assests/data.JPG)
+
 There are 3 folders in the dataset.<br />
 
 1) Original Images: It contains a total number of 228 images, among which 102 belongs to the 'Monkeypox' class and the remaining 126 represents the 'Others' class i.e., non-monkeypox (chickenpox and measles) cases.<br />
