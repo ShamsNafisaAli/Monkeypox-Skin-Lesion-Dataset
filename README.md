@@ -18,7 +18,7 @@ The dataset itself is available for download at the [Kaggle](https://www.kaggle.
 
 # Dataset Description
 
-![Data Division](https://github.com/ShamsNafisaAli/Monkeypox-Skin-Lesion-Dataset/blob/main/Assests/data.JPG)
+<!-- ![Data Division](https://github.com/ShamsNafisaAli/Monkeypox-Skin-Lesion-Dataset/blob/main/Assests/data.JPG) -->
 
 There are 3 folders in the dataset.<br />
 
