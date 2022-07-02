@@ -21,6 +21,7 @@ The dataset itself is available for download at the [Kaggle](https://www.kaggle.
 # Citation
 
 If this dataset helped your research, please cite:<br />
+
 Ali, S. N., Paul, J., Ahmed, M. T., Jahan, T., Noor, N., & Hasan, T. (2022). Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study. arXiv preprint arXiv:2xxx.xxxxx.
 
 <blockquote>
