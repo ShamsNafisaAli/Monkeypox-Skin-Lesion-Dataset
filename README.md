@@ -24,11 +24,11 @@ If this dataset helped your research, please cite:
  -Ali, S. N., Paul, J., Ahmed, M. T., Jahan, T., Noor, N., & Hasan, T. (2022). Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study. arXiv preprint arXiv:2xxx.xxxxx.
 
 <blockquote>
-@article{Nafisa2022,
+@article{Nafisa2022,<br />
   title={Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study},<br />
   author={Ali, Shams Nafisa and Paul, Joydip and Ahmed, Md. Tazuddin and Jahan, Tasnim and Noor, Nawshaba and Hasan, Taufiq},<br />
   journal={arXiv preprint arXiv:2xxx.xxxxx},<br />
-  year={2022}
+  year={2022}<br />
 }
 
   
