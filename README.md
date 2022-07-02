@@ -21,18 +21,15 @@ The dataset itself is available for download at the [Kaggle](https://www.kaggle.
 # Citation
 
 If this dataset helped your research, please cite:
+ -Ali, S. N., Paul, J., Ahmed, M. T., Jahan, T., Noor, N., & Hasan, T. (2022). Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study. arXiv preprint arXiv:2xxx.xxxxx.
 
 <blockquote>
-@article{Lisa_My_awesome_research_2021,<br />
-  author = {Lisa, Mona and Bot, Hew},<br />
-  doi = {10.0000/00000},<br />
-  journal = {Journal Title},
-  month = {9},
-  number = {1},
-  pages = {1--10},
-  title = {{My awesome research software}},
-  volume = {1},
-  year = {2021}
-} 
+@article{Nafisa2022,
+  title={Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study},<br />
+  author={Ali, Shams Nafisa and Paul, Joydip and Ahmed, Md. Tazuddin and Jahan, Tasnim and Noor, Nawshaba and Hasan, Taufiq},<br />
+  journal={arXiv preprint arXiv:2xxx.xxxxx},<br />
+  year={2022}
+}
 
-<!-- Tschandl, P., Rosendahl, C. & Kittler, H. The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions. Sci. Data 5, 180161 doi:10.1038/sdata.2018.161 (2018). -->
+  
+<!-- Tschandl, P., Rosendahl, C. & Kittler, H. The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions. Sci. Data 5, 180161 doi:10.1038/sdata.2018.161 (2018).  -->
