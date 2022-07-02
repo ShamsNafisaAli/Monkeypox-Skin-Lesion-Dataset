@@ -22,10 +22,10 @@ The dataset itself is available for download at the [Kaggle](https://www.kaggle.
 
 If this dataset helped your research, please cite:
 
-
-<!-- @article{Lisa_My_awesome_research_2021,
-  author = {Lisa, Mona and Bot, Hew},
-  doi = {10.0000/00000},
+<blockquote>
+@article{Lisa_My_awesome_research_2021,<br />
+  author = {Lisa, Mona and Bot, Hew},<br />
+  doi = {10.0000/00000},<br />
   journal = {Journal Title},
   month = {9},
   number = {1},
@@ -33,6 +33,6 @@ If this dataset helped your research, please cite:
   title = {{My awesome research software}},
   volume = {1},
   year = {2021}
-} -->
+} 
 
 <!-- Tschandl, P., Rosendahl, C. & Kittler, H. The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions. Sci. Data 5, 180161 doi:10.1038/sdata.2018.161 (2018). -->
