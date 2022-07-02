@@ -25,7 +25,7 @@ There are 3 folders in the dataset.<br />
 
 3) Fold1: To avoid any sort of bias in training, three-fold cross validation was performed. The original images were split into training, validation and test set(s) with the approximate proportion of 70 : 10 : 20 while maintaining patient independence. According to the commonly perceived data preparation practice, the training and validation images were augmented while the test set contained only the original images.<br />
 
-![Data](https://github.com/ShamsNafisaAli/Monkeypox-Skin-Lesion-Dataset/blob/main/Assests/sample%20images.png)
+![Data Preparation](https://github.com/ShamsNafisaAli/Monkeypox-Skin-Lesion-Dataset/blob/main/Assests/data_split.png)
 
 * * *
 
