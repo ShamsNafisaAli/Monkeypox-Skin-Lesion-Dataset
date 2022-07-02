@@ -43,16 +43,16 @@ To see, how you can use this dataset for performing binary classification, pleas
 
 If this dataset helped your research, please cite:<br />
 
-Ali, S. N., Paul, J., Ahmed, M. T., Jahan, T., Noor, N., & Hasan, T. (2022). Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study. arXiv preprint arXiv:2xxx.xxxxx.
+Ali, S. N., Paul, J., Ahmed, M. T., Jahan, T., Sani,  S. M. Sakeef, Noor, N., & Hasan, T. (2022). Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study. arXiv preprint arXiv:2xxx.xxxxx.
 
 <blockquote>
   
 @article{Nafisa2022,<br />
   title={Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study},<br />
-  author={Ali, Shams Nafisa and Paul, Joydip and Ahmed, Md. Tazuddin and Jahan, Tasnim and Noor, Nawshaba and Hasan, Taufiq},<br />
+  author={Ali, Shams Nafisa and Paul, Joydip and Ahmed, Md. Tazuddin and Jahan, Tasnim and Sani,  Sani, S. M. Sakeef and Noor, Nawshaba and Hasan, Taufiq},<br />
   journal={arXiv preprint arXiv:2xxx.xxxxx},<br />
   year={2022}<br />
 }
 
-  
+ 
 <!-- Tschandl, P., Rosendahl, C. & Kittler, H. The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions. Sci. Data 5, 180161 doi:10.1038/sdata.2018.161 (2018).  -->
