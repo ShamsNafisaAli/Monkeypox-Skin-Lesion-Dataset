@@ -51,6 +51,13 @@ To see, how you can use this dataset for performing binary classification, pleas
 
 * * *
 
+# Web-Application
+
+A prototype web-app has been developed using the open-source python streamlit framework:<br />
+- [Notebook1](https://www.kaggle.com/code/gpiosenka/monkey-pox-f1-score-90) <br />
+- [Notebook2](https://www.kaggle.com/code/nafin59/monkeypox-sample-classification-notebook)<br />
+
+* * *
 
 # Citation
 
