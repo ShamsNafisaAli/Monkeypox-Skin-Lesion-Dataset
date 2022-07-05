@@ -1,5 +1,0 @@
-1. To run the app locally, install the libraries those are in the requirement.txt. (create a virtual environment)
-	1.1. Make sure to change the location for the static/uploads folder location in the code, according to your PC
-2. Run the app.ipynb
-3. The last cell will show an url for local webapp deployment, copy and then paste the url in your native browser
-4. Enjoy!
