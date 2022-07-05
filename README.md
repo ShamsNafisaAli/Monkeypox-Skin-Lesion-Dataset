@@ -52,7 +52,7 @@ Ali, S. N., Ahmed, M. T., Paul, J., Jahan, T., Sani,  S. M. Sakeef, Noor, N., & 
   
 @article{Nafisa2022,<br />
   title={Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study},<br />
-  author={Ali, Shams Nafisa and Ahmed, Md. Tazuddin and Paul, Joydip  and Jahan, Tasnim and Sani,  Sani, S. M. Sakeef and Noor, Nawshaba and Hasan, Taufiq},<br />
+  author={Ali, Shams Nafisa and Ahmed, Md. Tazuddin and Paul, Joydip  and Jahan, Tasnim and Sani,  S. M. Sakeef and Noor, Nawshaba and Hasan, Taufiq},<br />
   journal={arXiv preprint arXiv:2xxx.xxxxx},<br />
   year={2022}<br />
 }
