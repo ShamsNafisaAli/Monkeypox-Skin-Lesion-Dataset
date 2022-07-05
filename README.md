@@ -46,13 +46,13 @@ To see, how you can use this dataset for performing binary classification, pleas
 
 If this dataset helped your research, please cite:<br />
 
-Ali, S. N., Paul, J., Ahmed, M. T., Jahan, T., Sani,  S. M. Sakeef, Noor, N., & Hasan, T. (2022). Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study. arXiv preprint arXiv:2xxx.xxxxx.
+Ali, S. N., Ahmed, M. T., Paul, J., Jahan, T., Sani,  S. M. Sakeef, Noor, N., & Hasan, T. (2022). Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study. arXiv preprint arXiv:2xxx.xxxxx.
 
 <blockquote>
   
 @article{Nafisa2022,<br />
   title={Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study},<br />
-  author={Ali, Shams Nafisa and Paul, Joydip and Ahmed, Md. Tazuddin and Jahan, Tasnim and Sani,  Sani, S. M. Sakeef and Noor, Nawshaba and Hasan, Taufiq},<br />
+  author={Ali, Shams Nafisa and Ahmed, Md. Tazuddin and Paul, Joydip  and Jahan, Tasnim and Sani,  Sani, S. M. Sakeef and Noor, Nawshaba and Hasan, Taufiq},<br />
   journal={arXiv preprint arXiv:2xxx.xxxxx},<br />
   year={2022}<br />
 }
