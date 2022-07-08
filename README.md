@@ -74,9 +74,8 @@ Ali, S. N., Ahmed, M. T., Paul, J., Jahan, T., Sani,  S. M. Sakeef, Noor, N., & 
 @article{Nafisa2022,<br />
   title={Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study},<br />
   author={Ali, Shams Nafisa and Ahmed, Md. Tazuddin and Paul, Joydip  and Jahan, Tasnim and Sani,  S. M. Sakeef and Noor, Nawshaba and Hasan, Taufiq},<br />
-  journal={arXiv preprint arXiv:2xxx.xxxxx},<br />
+  journal={arXiv preprint arXiv:2207.03342},<br />
   year={2022}<br />
 }
-
  
 <!-- Tschandl, P., Rosendahl, C. & Kittler, H. The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions. Sci. Data 5, 180161 doi:10.1038/sdata.2018.161 (2018).  -->
