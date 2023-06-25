@@ -1,3 +1,6 @@
+# UPDATE:  Check out the updated version of the MSLD dataset, ["MSLD v2.0"](https://github.com/ShamsNafisaAli/Monkeypox-Skin-Lesion-Dataset-v2) has been released after being verified by an expert dermatologist! 
+
+
 # Monkeypox-Skin-Lesion-Dataset
 
 ![License](https://github.com/ShamsNafisaAli/Monkeypox-Skin-Lesion-Dataset/blob/main/Assests/cc.png)
