@@ -1,4 +1,4 @@
-# UPDATE:  Check out the newly released updated version of the MSLD dataset, ["MSLD v2.0"](https://github.com/ShamsNafisaAli/Monkeypox-Skin-Lesion-Dataset-v2) which has been verified by an expert dermatologist! 
+# UPDATE:  Check out the newly released [updated version](https://arxiv.org/abs/2306.14169) of the MSLD dataset, ["MSLD v2.0"](https://github.com/ShamsNafisaAli/Monkeypox-Skin-Lesion-Dataset-v2) which has been verified by an expert dermatologist! 
 
 
 ## Monkeypox-Skin-Lesion-Dataset
@@ -66,19 +66,24 @@ The codes required to build and train the model, all the javascript, css and htm
 
 * * *
 
-# Citation
+If this dataset helped your research, please cite the following papers:<br />
 
-If this dataset helped your research, please cite the following [paper](https://arxiv.org/abs/2207.03342):<br />
 
-Ali, S. N., Ahmed, M. T., Paul, J., Jahan, T., Sani,  S. M. Sakeef, Noor, N., & Hasan, T. (2022). Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study. arXiv preprint arXiv:2207.03342.
+Ali, S. N., Ahmed, M. T., Paul, J., Jahan, T., Sani,  S. M. Sakeef, Noor, N., & Hasan, T. (2022). [Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study.](https://arxiv.org/abs/2207.03342) arXiv preprint arXiv:2207.03342.
 
-<blockquote>
-  
-@article{Nafisa2022,<br />
+>@article{Nafisa2022,<br />
   title={Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study},<br />
   author={Ali, Shams Nafisa and Ahmed, Md. Tazuddin and Paul, Joydip  and Jahan, Tasnim and Sani,  S. M. Sakeef and Noor, Nawshaba and Hasan, Taufiq},<br />
   journal={arXiv preprint arXiv:2207.03342},<br />
   year={2022}<br />
 }
- 
+>
+>Ali, S. N., Ahmed, M. T., Jahan, T., Paul, J., Sani, S. M. Sakeef, Noor, N., Asma, A. N., & Hasan, T. (2023). [A Web-based Mpox Skin Lesion Detection System Using State-of-the-art Deep Learning Models Considering Racial Diversity.](https://arxiv.org/abs/2306.14169) arXiv preprint arXiv:2306.14169.
+
+>@article{Nafisa2023,<br />
+  title={A Web-based Mpox Skin Lesion Detection System Using State-of-the-art Deep Learning Models Considering Racial Diversity},<br />
+  author={Ahmed, Md. Tazuddin and Paul, Joydip  and Jahan, Tasnim and Ali, Shams Nafisa and Sani,  S. M. Sakeef and Noor, Nawshaba and Asma,     Anzirun Nahar and Hasan, Taufiq},<br />
+  journal={arXiv preprint arXiv:2306.14169},<br />
+  year={2023}<br />
+}
 <!-- Tschandl, P., Rosendahl, C. & Kittler, H. The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions. Sci. Data 5, 180161 doi:10.1038/sdata.2018.161 (2018).  -->
