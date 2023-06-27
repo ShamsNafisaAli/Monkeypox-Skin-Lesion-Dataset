@@ -79,8 +79,9 @@ Ali, S. N., Ahmed, M. T., Paul, J., Jahan, T., Sani,  S. M. Sakeef, Noor, N., & 
   journal={arXiv preprint arXiv:2207.03342},<br />
   year={2022}<br />
 }
->
->Ali, S. N., Ahmed, M. T., Jahan, T., Paul, J., Sani, S. M. Sakeef, Noor, N., Asma, A. N., & Hasan, T. (2023). [A Web-based Mpox Skin Lesion Detection System Using State-of-the-art Deep Learning Models Considering Racial Diversity.](https://arxiv.org/abs/2306.14169) arXiv preprint arXiv:2306.14169.
+
+
+Ali, S. N., Ahmed, M. T., Jahan, T., Paul, J., Sani, S. M. Sakeef, Noor, N., Asma, A. N., & Hasan, T. (2023). [A Web-based Mpox Skin Lesion Detection System Using State-of-the-art Deep Learning Models Considering Racial Diversity.](https://arxiv.org/abs/2306.14169) arXiv preprint arXiv:2306.14169.
 
 >@article{Nafisa2023,<br />
   title={A Web-based Mpox Skin Lesion Detection System Using State-of-the-art Deep Learning Models Considering Racial Diversity},<br />
